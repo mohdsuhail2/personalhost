@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css fonts</title>
+</head>
+<body>
+    p{
+        font-family:cambria;
+        font-size:33 px; /*1 pixel=1/96inches*/
+        line-height:1.3em;
+    }
+   <h4>css fonts style </h4>
+    <p> lets play with fonts .it is vary exciting</p>
+</body>
+</html>
